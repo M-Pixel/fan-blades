@@ -1,0 +1,6 @@
+[submodule "MCAD"]
+	path = MCAD
+	url = ../MCAD.git
+[submodule "scad-utils"]
+	path = scad-utils
+	url = ../scad-utils.git
